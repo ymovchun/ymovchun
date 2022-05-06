@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ymovchun
+- 👋 Hi, I’m Yuri Movchun
 - 👀 I’m interested in IT and astronomy
 - 🌱 I’m currently learning SMACK pipeline
 - 💞️ I’m looking to collaborate on ...
